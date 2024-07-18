@@ -30,7 +30,7 @@ export function HomeBuilders() {
                 textWrap: 'balance',
               }}
             >
-              DeFi&rsquo;s most extensive AMM product suite
+              Liquid NFTs your way with V3 Hooks
             </Heading>
             <Text
               w="full"
@@ -87,7 +87,7 @@ export function HomeBuilders() {
                       textWrap: 'balance',
                     }}
                   >
-                    Code less. Build more.
+                    Wrap or Unwrap erc721 NFTs
                   </Heading>
                   <Text
                     sx={{
@@ -128,7 +128,7 @@ export function HomeBuilders() {
                       textWrap: 'balance',
                     }}
                   >
-                    Booststrap liquidity
+                    Swap Within a Collection
                   </Heading>
                   <Text
                     sx={{
@@ -168,7 +168,7 @@ export function HomeBuilders() {
                       textWrap: 'balance',
                     }}
                   >
-                    Launch your product faster
+                    Create an NFT Index
                   </Heading>
                   <Text
                     sx={{
@@ -212,7 +212,7 @@ export function HomeBuilders() {
                       textWrap: 'balance',
                     }}
                   >
-                    Join the largest AMM network
+                    Join a gauge for NFT Vetokenomics
                   </Heading>
                   <Text
                     sx={{

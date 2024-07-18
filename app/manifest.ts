@@ -2,9 +2,10 @@ import { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    short_name: 'Balancer',
-    name: 'Balancer',
-    description: 'Balancer is a battle-tested toolkit for true AMM experimentation and innovation.',
+    short_name: 'MyEVM NFT',
+    name: 'MyEVM NFT',
+    description:
+      ' Built on Balancer. A battle-tested toolkit for true AMM experimentation and innovation.',
     icons: [
       {
         src: '/favicon.ico',

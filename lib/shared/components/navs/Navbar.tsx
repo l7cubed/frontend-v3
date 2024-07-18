@@ -52,7 +52,7 @@ function NavLinks({ ...props }: BoxProps) {
             prefetch={true}
             color={linkColorFor('/debug')}
           >
-            Debug
+            WrapNFT
           </Link>
         </Box>
       )}

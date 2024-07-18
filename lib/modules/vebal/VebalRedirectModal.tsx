@@ -29,7 +29,7 @@ export function VeBalLink({ triggerEl, ...props }: VebalRedirectModalProps) {
   return (
     <>
       <Link onClick={onOpen} variant="nav" color="font.primary" {...props}>
-        {triggerEl || 'veBAL'}
+        {triggerEl || 'vePad'}
       </Link>
 
       <VebalRedirectModal isOpen={isOpen} onClose={onClose} />
